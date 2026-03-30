@@ -1,4 +1,4 @@
-# WiFi Security API 🔐
+# WiFi Security API
 
 API desenvolvida para análise de vulnerabilidades em redes Wi-Fi.
 
